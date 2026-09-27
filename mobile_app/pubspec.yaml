@@ -1,0 +1,14 @@
+name: drop_screener
+description: 고점 대비 급락주 스크리너
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
